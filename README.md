@@ -20,11 +20,17 @@ mkdocs serve
 
 本地运行： [http://localhost:8000](http://localhost:8000)
 
-- 打包部署
+- 部署 Github Page
+```
+mkdocs gh-deploy
+```
+
+- 部署服务器
 
 ```
 mkdocs build
 ```
+这将生成一个包含html文件的site目录
 
 线上文档：[https://yijing.emooa.com](https://yijing.emooa.com)
 
