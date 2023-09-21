@@ -22,7 +22,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
+      primary: teal
       toggle:
         icon: material/brightness-7
 
