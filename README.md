@@ -20,7 +20,7 @@ mkdocs serve
 
 本地运行： [http://localhost:8000](http://localhost:8000)
 
-- 部署 Github Page
+- 部署 Github Page，访问 [https://huangfushan.github.io/yijing](https://huangfushan.github.io/yijing)
 ```
 mkdocs gh-deploy
 ```
